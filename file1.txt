@@ -1,2 +1,6 @@
 this is file 1
+<<<<<<< HEAD
 checking merge
+=======
+I am testing the merge
+>>>>>>> divide
