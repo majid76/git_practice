@@ -1,1 +1,15 @@
 this is file 2
+
+def add(x,y):
+	return x + y
+
+def subtact(x,y):
+pass
+
+
+def multiply(x,y):
+pass
+
+
+def divide(x,y):
+pass
